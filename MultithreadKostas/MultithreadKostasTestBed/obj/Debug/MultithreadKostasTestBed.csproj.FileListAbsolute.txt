@@ -1,0 +1,7 @@
+C:\Users\pearl\source\repos\MultithreadKostas\MultithreadKostasTestBed\bin\Debug\MultithreadKostasTestBed.exe.config
+C:\Users\pearl\source\repos\MultithreadKostas\MultithreadKostasTestBed\bin\Debug\MultithreadKostasTestBed.exe
+C:\Users\pearl\source\repos\MultithreadKostas\MultithreadKostasTestBed\bin\Debug\MultithreadKostasTestBed.pdb
+C:\Users\pearl\source\repos\MultithreadKostas\MultithreadKostasTestBed\obj\Debug\MultithreadKostasTestBed.csproj.AssemblyReference.cache
+C:\Users\pearl\source\repos\MultithreadKostas\MultithreadKostasTestBed\obj\Debug\MultithreadKostasTestBed.csproj.CoreCompileInputs.cache
+C:\Users\pearl\source\repos\MultithreadKostas\MultithreadKostasTestBed\obj\Debug\MultithreadKostasTestBed.exe
+C:\Users\pearl\source\repos\MultithreadKostas\MultithreadKostasTestBed\obj\Debug\MultithreadKostasTestBed.pdb
